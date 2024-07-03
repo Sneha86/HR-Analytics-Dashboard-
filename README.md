@@ -1,3 +1,4 @@
+# HR Analytics Dashboard using Tableau
 About the dashboard:
 By monitoring attrition, organizations gain insights into workforce stability and its impact on operations and company culture. This dashboard provides insights into recruitment, performance, retention, training, and workforce planning. It enables organizations to enhance decision-making, boost employee satisfaction and productivity, and align HR processes with business goals.
 
