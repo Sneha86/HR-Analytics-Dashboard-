@@ -6,12 +6,12 @@ By monitoring attrition, organizations gain insights into workforce stability an
 - Attrition count: 237
 - Attrition rate: 16.12%
 - Active employees: 1233
--	Average Age :37
+-	Average Age:37
     
 📌 Key Findings:
 - Male employees have higher attrition rates compared to female employees.
-- The age group between 25-34 has highrer attrition rates in both male and female categories.
-- Life sciences field has the highest attrition count compared to other fields of education.
+- The age group between 25-34 has higher attrition rates in both male and female categories.
+- The life sciences field has the highest attrition count compared to other fields of education.
 - Research and development department leads in attrition compared to other departments.
 - Out of 1470 employees, 289 people from various job roles rated their job satisfaction as 1, with the Sales Executive job role having the highest count.
   
